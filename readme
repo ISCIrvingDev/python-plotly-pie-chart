@@ -1,0 +1,5 @@
+1) Install dependencies:
+pip install plotly
+
+2) Run the script:
+python src/main.py
